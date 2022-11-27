@@ -1,16 +1,7 @@
-# destini
+# destini - A Choose Your Own Adventure Game
 
-A new Flutter project.
+A Boss Challenge #2 - Applying OOP to your own App.
 
-## Getting Started
+In this app you have a story that you can choose 1 of 2 choices, and depending on the choice made the rest of the story would change and unfold depending on that choice.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+From the course The Complete Flutter Development Bootcamp with Dart.
